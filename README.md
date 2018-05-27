@@ -1,4 +1,4 @@
-## Free Code camp - Intermediate Algorithm Scripting (50 hours)
+## Intermediate Algorithm Scripting 
 
 Sum All Numbers in a Range 
 
